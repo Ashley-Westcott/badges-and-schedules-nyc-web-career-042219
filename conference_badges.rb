@@ -24,6 +24,8 @@ def assign_rooms(speakers)
   return new_array
 end
 
+def assing_rooms(speakers)
+  speakers.each_with_index do |speaker, index
 
 
 
