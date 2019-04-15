@@ -18,7 +18,7 @@ def assign_rooms(speakers)
   "Hello, #{speaker}! You'll be assigned to room #{index + 1}!"}
 end
 
-def printer
+def printer(speakers)
   counter = i
   puts batch_badge_creater(i)
   puts assign_rooms(i)
