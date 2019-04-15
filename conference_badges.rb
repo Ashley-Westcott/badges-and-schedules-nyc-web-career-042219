@@ -19,10 +19,7 @@ def assign_rooms(speakers)
 end
 
 def printer(speakers)
-  counter = i
-  puts batch_badge_creater(i)
-  puts assign_rooms(i)
-  counter += 1
+  
 end
 
 
