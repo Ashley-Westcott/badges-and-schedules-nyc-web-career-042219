@@ -14,7 +14,11 @@ def batch_badge_creator(speakers)
   return new_array
 end
   
+def assign_rooms(speakers)
+  room_count = 1
   
+
+
   #for speakers.length do
   #return "Hello, my name is #{speaker[i]}."
 #end
