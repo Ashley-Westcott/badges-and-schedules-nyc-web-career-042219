@@ -25,7 +25,7 @@ def assign_rooms(speakers)
 end
 
 def assing_rooms(speakers)
-  speakers.each_with_index do |speaker, index
+  speakers.each_with_index do { |speaker, index| }
 
 
 
