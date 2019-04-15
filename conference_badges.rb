@@ -21,7 +21,7 @@ end
 def printer
   counter = i
   puts batch_badge_creater(i)
-  puts assingn_rooms(i)
+  puts assign_rooms(i)
   counter += 1
 end
 
