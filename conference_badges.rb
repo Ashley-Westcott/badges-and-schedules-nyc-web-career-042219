@@ -20,7 +20,7 @@ end
 
 def printer
   puts batch_badge_creater(i)
-  puts assing_rooms(i)
+  puts assingn_rooms(i)
 end
 
 
