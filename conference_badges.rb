@@ -17,7 +17,7 @@ end
 def assign_rooms(speakers)
   new_array = []
   room_count = 1
-  
+  speakers.length
 
 
   #for speakers.length do
