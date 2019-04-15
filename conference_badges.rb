@@ -14,10 +14,10 @@ end
   
 
 def assing_rooms(speakers)
-  
   speakers.collect.each_with_index do { | speaker, index |
   "Hello, #{speaker}! You'll be assigned to room #{index + 1}!")}
-
+  end
+end
 
 
 
