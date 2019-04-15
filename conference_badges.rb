@@ -17,7 +17,8 @@ end
 def assign_rooms(speakers)
   new_array = []
   room_count = 1
-  speakers.each do 
+  speakers.each do |speaker|
+    
 
 
   #for speakers.length do
