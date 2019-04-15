@@ -20,11 +20,11 @@ def assign_rooms(speakers)
   speakers.each do |speaker|
     new_array.push("Hello #{speaker}! You'll be assigned to room #{room_count}!")
     room_count += 1
-  
+    end
+  return new_array
+end
 
-  #for speakers.length do
-  #return "Hello, my name is #{speaker[i]}."
-#end
+
 
 
 
